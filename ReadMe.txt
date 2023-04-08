@@ -1,2 +1,2 @@
 This project was implemented in partial fulfilment of the requirements for the completion of the course Operating Systems & Network Security.
-The program implemented in this project takes
+The program implemented in this project reads messages from a text file in four different languages, encrypts them using the Caesar Cipher method and saves the encrypted message in a text file. It then goes on to read the encrypted message from the text file and decrypts it. All outputs are printed to screen.
